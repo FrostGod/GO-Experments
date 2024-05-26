@@ -14,5 +14,5 @@ func main() {
 	// temp_deck := newDeckFromFile("my_card")
 	// temp_deck.print()
 	cards.shuffle()
-	cards.print()
+
 }
